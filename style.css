@@ -35,11 +35,11 @@ body {
     cursor: pointer;
     border-radius: 5px;
     border: none;
-    height: 45px;
-    width: 120px;
+    height: 40px;
+    width: 100px;
     color: #ffff;
     background-color: blue;
-    font-size: 25px;
+    font-size: 17px;
     font: 700;
 }
 
@@ -94,6 +94,10 @@ li {
     .input-list{
         width: 120px;
         font-size: 11px;
+    }
+
+    .button-adicionar{
+        font-size: 50px;
     }
 
 }
