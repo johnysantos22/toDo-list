@@ -87,7 +87,7 @@ li {
     background-color: rgb(171, 171, 241);
     text-decoration: line-through;
 }
-@media screen and (max-width:900px)  {
+@media screen and (max-width:500px)  {
     .div-da-tarefa{
         width: 300px
     }
